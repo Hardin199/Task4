@@ -1,3 +1,5 @@
+#Example for pull request.
+
 <?php
 require('ConnectDabase.php');
 if (isset($_POST['submit'])){
